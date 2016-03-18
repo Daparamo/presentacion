@@ -265,7 +265,7 @@ $()
 function MuestraEjemploBinomial(){
 
 	return 			`<p class="pModal">
-							Tenmos el siguiente caso: Calcule la probabilidad de que en una familia que tiene cuatro hijos, tres de ellos sean "niños"
+							Tenemos el siguiente caso: Calcule la probabilidad de que en una familia que tiene cuatro hijos, tres de ellos sean "niños"
 					   </p>
 					   <br>
 					   <p class="pModal">
