@@ -1,0 +1,67 @@
+body{
+  background-color: gainsboro;
+}
+
+
+
+p {
+	font-size: 20px;
+}
+
+.pModal {
+	text-align: justify;
+}
+
+#Graficas {
+	width: 530px;
+	height: 330px;
+}
+
+#Formulas {
+	width: 273px;
+	height: 39px;
+}
+
+#Formula {
+	width: 163px;
+	height: 21px;
+}
+
+#FormulasMedia{
+	width: 154px;
+    height: 46px;
+}
+
+#FormulaBinomial{
+	width: 184px;
+    height: 53px;
+}
+
+.imgModal {
+	width: 200px; 
+	height:70px;
+}
+
+.Micss {
+	height: 25px;
+	line-height: 0px;
+}
+
+.inputModal {
+
+	width: 60px;
+	height: 40px;
+}
+.inputModalResult {
+	
+	width: 110px;
+	height: 40px;
+}
+
+input {
+	border: 0px;
+	background-color: rgba(0, 0, 0, 0.12);
+	width: 40px;
+	height: 40px;
+	text-align: center;
+}
