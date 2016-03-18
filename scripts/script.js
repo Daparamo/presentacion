@@ -265,7 +265,7 @@ $()
 function MuestraEjemploBinomial(){
 
 	return 			`<p class="pModal">
-							Tenmos el siguiente caso: Calcule la probabilidad de que en una familia que tiene cuatro hijos, tres de ellos sean "niños"
+							Tenemos el siguiente caso: Calcule la probabilidad de que en una familia que tiene cuatro hijos, tres de ellos sean "niños"
 					   </p>
 					   <br>
 					   <p class="pModal">
@@ -298,7 +298,7 @@ function MuestraEjemploBinomial(){
 function MuestraEjemploBinomialNegativa(){
 
 	return 			`<p class="pModal">
-							Tenmos el siguiente caso: Calcule la probabilidad de encontrar tres no votantes antes de encontrar el quinto votante 
+							Tenemos el siguiente caso: Calcule la probabilidad de encontrar tres no votantes antes de encontrar el quinto votante 
 					   </p>
 					   <br>
 					   <p class="pModal">
@@ -329,7 +329,7 @@ function MuestraEjemploBinomialNegativa(){
 function MuestraEjemploNormal(){
 
 	return 			`<p class="pModal">
-							Tenmos el siguiente caso: las estaturas de los colombianos se distribuyen normalmente y tienen una media de 167 cmy una desviación de 12,5 cm calcular P<= 185 cm
+							Tenemos el siguiente caso: las estaturas de los colombianos se distribuyen normalmente y tienen una media de 167 cmy una desviación de 12,5 cm calcular P<= 185 cm
 					   </p>
 					   <br>
 					   <p class="pModal">
@@ -359,7 +359,7 @@ function MuestraEjemploNormal(){
 function MuestraContinua(){
 
 	return 			`<p class="pModal">
-							Tenmos el siguiente caso: la vida media de un televisor es de 10.000 horas calcule la probabilidad de que falle antes de las 3.000 horas
+							Tenemos el siguiente caso: la vida media de un televisor es de 10.000 horas calcule la probabilidad de que falle antes de las 3.000 horas
 					   </p>					   
 					   <div align="left">
 					   <ul>
